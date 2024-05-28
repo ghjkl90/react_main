@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ghjkl90/react_main/branches/static/css/main.9b6ed067.css",
+    "main.js": "/ghjkl90/react_main/branches/static/js/main.ae9c0a48.js",
+    "static/js/453.ad928b54.chunk.js": "/ghjkl90/react_main/branches/static/js/453.ad928b54.chunk.js",
+    "static/media/HakgyoansimUsanR.ttf": "/ghjkl90/react_main/branches/static/media/HakgyoansimUsanR.358890928b19b65ad5f8.ttf",
+    "static/media/레이아웃1.png": "/ghjkl90/react_main/branches/static/media/레이아웃1.7437b5dd1f449ab6dca8.png",
+    "static/media/담배.png": "/ghjkl90/react_main/branches/static/media/담배.bdddb300c8cde11ab12f.png",
+    "static/media/비.png": "/ghjkl90/react_main/branches/static/media/비.b07a9fb1a14d0c71c728.png",
+    "static/media/지붕.png": "/ghjkl90/react_main/branches/static/media/지붕.069b856c270afe23fce0.png",
+    "static/media/경고.png": "/ghjkl90/react_main/branches/static/media/경고.32eac5b632f7af466ba2.png",
+    "index.html": "/ghjkl90/react_main/branches/index.html",
+    "main.9b6ed067.css.map": "/ghjkl90/react_main/branches/static/css/main.9b6ed067.css.map",
+    "main.ae9c0a48.js.map": "/ghjkl90/react_main/branches/static/js/main.ae9c0a48.js.map",
+    "453.ad928b54.chunk.js.map": "/ghjkl90/react_main/branches/static/js/453.ad928b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b6ed067.css",
+    "static/js/main.ae9c0a48.js"
+  ]
+}
